@@ -5,6 +5,8 @@ public class Rocket {
 
   public static void main(String[] args) {
       triangle();
+      Square();
   }
 
-}
+
+public class Rocket {
